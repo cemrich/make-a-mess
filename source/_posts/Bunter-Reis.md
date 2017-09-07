@@ -12,8 +12,9 @@ tags:
 Kurze Beschreibung hier.
 
 ## Zutaten
-- Zutat 1
-- Zutat 2
+- Reis, ungekocht
+- etwas Essig
+- Lebensmittelfarbe
 
 ## Zubereitung
 

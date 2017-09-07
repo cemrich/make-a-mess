@@ -12,14 +12,20 @@ tags:
 Kurze Beschreibung hier.
 
 ## Zutaten
-- Mehl
-- Zitronensäure
-- heißes Wasser
+- 300 g Mehl
+- 65 g Salz
+- 2-3 EL Öl
+- 1 EL Zitronensäure
+- 200 ml Wasser (heiß)
 - n.B. Lebensmittelfarben
 
 ## Zubereitung
 
 Kurze Beschreibung hier.
+
+## Lagerung
+
+
 
 ## Bewertung
 

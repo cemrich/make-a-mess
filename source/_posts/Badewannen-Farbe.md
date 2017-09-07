@@ -12,8 +12,8 @@ tags:
 Kurze Beschreibung hier.
 
 ## Zutaten
-- Zutat 1
-- Zutat 2
+- Rasierschaum oder Sprüh-Duschschaum
+- n.B. Lebensmittelfarbe
 
 ## Zubereitung
 

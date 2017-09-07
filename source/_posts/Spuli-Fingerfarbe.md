@@ -12,8 +12,8 @@ tags:
 Kurze Beschreibung hier.
 
 ## Zutaten
-- Zutat 1
-- Zutat 2
+- transparentes Spüli
+- n.B. Lebensmittelfarbe
 
 ## Zubereitung
 

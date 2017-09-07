@@ -12,12 +12,16 @@ tags:
 Kurze Beschreibung hier.
 
 ## Zutaten
-- Zutat 1
-- Zutat 2
+- 1 Teil Mehl
+- 1 Teil Salz
+- 1 Teil Wasser
+- n.B. Lebensmittelfarbe
 
 ## Zubereitung
 
 Kurze Beschreibung hier.
+
+Nach dem Malen für ca. 15 Sekunden in die Mikrowelle.
 
 ## Bewertung
 
