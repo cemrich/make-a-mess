@@ -7,7 +7,7 @@ tags:
 - Farbe
 ---
 
-![test image](images/test.jpg)
+![test image](/make-a-mess/images/test.jpg)
 
 Kurze Beschreibung hier.
 
