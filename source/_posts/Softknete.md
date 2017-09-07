@@ -7,7 +7,7 @@ tags:
 - Knete
 ---
 
-![test image](/images/test.jpg)
+![test image](images/test.jpg)
 
 Kurze Beschreibung hier.
 
